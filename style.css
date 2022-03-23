@@ -1,0 +1,11 @@
+small img { 
+    width: 4em;
+ }
+
+.medium img { 
+    width: 5em;
+ }
+
+.large img { 
+    width: 7em; 
+}
